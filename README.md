@@ -1,10 +1,9 @@
-### hey there !
+### hello! thanks for checking out my dev projects
 
 <!--
 
-Hey, I'm Will Barnard!
+Hi, I'm Will Barnard
 
-- 🔭 I’m currently working on learning to code
-- 🌱 I’m currently learning Java
-- 😄 Pronouns: he/him
+I like building meaningful and interactive apps
 
+Check out some of my projects :)
