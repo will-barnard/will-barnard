@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Will Barnard</h1>
 <p align="center">Full Stack Software Developer specializing in Java/Spring and Vue.js applications</p>
-<h1></h1>
+<h2></h2>
+
 ### Major Projects
 
 - <a href="http://train-tracker.will-barnard.com">Train Tracker</a>
