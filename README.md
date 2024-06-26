@@ -1,9 +1,34 @@
-### hello! thanks for checking out my dev projects
+<h1 align="center">Hi, I'm Will Barnard</h1>
+<p align="center">Full Stack Software Developer specializing in Java/Spring and Vue.js applications</p>
 
-<!--
+### Major Projects
+- <a href="http://train-tracker.will-barnard.com">Train Tracker</a>
+    - Web app for tracking Chicago trains
+    - Data analytics determine prediction accuracy
+    - Microservice architecture
+- <a href="http://kitchen-jam.com">Kitchen Jam</a>
+    - Improvise, iterate, improve! Log your meals and become a better home chef
+    - Users create their own recipes and can upload photos
+- <a href="http://virtual-vibes.will-barnard.com">Virtual Vibes</a>
+    - Message board app - users can create and moderate their own communities
+    - Posts can be sorted by recent and most popular
 
-Hi, I'm Will Barnard
+### Let's Connect
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-barnard-dev/)
 
-I like building meaningful and interactive apps
+### Languages and Tools
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JSON Badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
-Check out some of my projects :)
+---
+[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-barnard)](https://github.com/will-barnard/github-readme-stats)
