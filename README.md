@@ -7,10 +7,11 @@
 - <a href="http://kitchen-jam.com">Kitchen Jam</a>
     - Improvise, iterate, improve! Log your meals and become a better home chef
     - Users create their own recipes and can upload photos, add their friends, and comment on each others cooking
+    - Small active user base
 - <a href="http://train-tracker.will-barnard.com">Train Tracker</a>
-    - Web app for tracking Chicago trains
-    - Data analytics determine prediction accuracy
-    - Microservice architecture
+    - Web app for tracking Chicago train arrival times
+    - Data analytics determine relative prediction accuracy
+    - Microservice Java architecture
 - <a href="http://virtual-vibes.will-barnard.com">Virtual Vibes</a>
     - Message board app - users can create and moderate their own communities
     - Posts can be sorted by recent and most popular
