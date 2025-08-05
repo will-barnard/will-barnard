@@ -3,6 +3,7 @@
 <h2></h2>
 
 ### Major Projects
+[![Static Badge](https://img.shields.io/badge/Porfolio-gray)](https://will-barnard.com)
 
 - <a href="https://kitchen-jam.com">Kitchen Jam</a>
     - Improvise, iterate, improve! Log your meals and become a better home chef
@@ -18,7 +19,6 @@
 ---
 ### Let's Connect
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-barnard-dev/)
-[![Static Badge](https://img.shields.io/badge/Porfolio-gray)](https://will-barnard.com)
 
 ---
 ### Languages and Tools
