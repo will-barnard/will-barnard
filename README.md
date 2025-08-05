@@ -2,8 +2,9 @@
 <p align="center">Full Stack Software Developer specializing in Java/Spring and Vue.js applications</p>
 <h2></h2>
 
-### Major Projects
 [![Static Badge](https://img.shields.io/badge/Porfolio-gray)](https://will-barnard.com)
+
+### Major Projects
 
 - <a href="https://kitchen-jam.com">Kitchen Jam</a>
     - Improvise, iterate, improve! Log your meals and become a better home chef
